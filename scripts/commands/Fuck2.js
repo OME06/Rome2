@@ -7,7 +7,7 @@ module.exports.config = {
     name: "fuckv2",
     version: "2.0.0",
     permssion: 2,
-    credits: "Mahabub Rahaman",
+    credits: " OME BOSS",
     description: "",
     prefix: true,
     category: "fuckv2",
